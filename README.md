@@ -10,7 +10,7 @@ In this project, we will build a text classification model on song lyrics. The t
 
 I scraped lyrics of 2 bands Queen and U2 with BeautifulSoup package
 created Bag of words and TFIDF matrices. 
-Trained models LOGISTIC REGRESSION, Naive byers and Random Forest to predict the name of band.
+Trained models LOGISTIC REGRESSION, Naive Bayes and Random Forest to predict the name of band.
 Naive Byers showed best scores.
 I created WordCloud plots and Topic Modeling foe each band. 
 Our lyrics pretty similar, so maximum accuracy I could reach is about 73%
